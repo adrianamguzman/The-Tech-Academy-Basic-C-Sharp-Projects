@@ -1,0 +1,7 @@
+C:\Users\Adriana\source\repos\MathOperatorExercise\MathOperatorExercise\obj\Debug\MathOperatorExercise.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\MathOperatorExercise\MathOperatorExercise\obj\Debug\MathOperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\MathOperatorExercise\MathOperatorExercise\bin\Debug\MathOperatorExercise.exe.config
+C:\Users\Adriana\source\repos\MathOperatorExercise\MathOperatorExercise\bin\Debug\MathOperatorExercise.exe
+C:\Users\Adriana\source\repos\MathOperatorExercise\MathOperatorExercise\bin\Debug\MathOperatorExercise.pdb
+C:\Users\Adriana\source\repos\MathOperatorExercise\MathOperatorExercise\obj\Debug\MathOperatorExercise.exe
+C:\Users\Adriana\source\repos\MathOperatorExercise\MathOperatorExercise\obj\Debug\MathOperatorExercise.pdb
