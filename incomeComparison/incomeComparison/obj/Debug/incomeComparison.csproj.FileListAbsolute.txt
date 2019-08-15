@@ -1,0 +1,7 @@
+C:\Users\Adriana\source\repos\incomeComparison\incomeComparison\bin\Debug\incomeComparison.exe.config
+C:\Users\Adriana\source\repos\incomeComparison\incomeComparison\bin\Debug\incomeComparison.exe
+C:\Users\Adriana\source\repos\incomeComparison\incomeComparison\bin\Debug\incomeComparison.pdb
+C:\Users\Adriana\source\repos\incomeComparison\incomeComparison\obj\Debug\incomeComparison.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\incomeComparison\incomeComparison\obj\Debug\incomeComparison.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\incomeComparison\incomeComparison\obj\Debug\incomeComparison.exe
+C:\Users\Adriana\source\repos\incomeComparison\incomeComparison\obj\Debug\incomeComparison.pdb
