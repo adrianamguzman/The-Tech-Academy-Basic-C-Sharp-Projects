@@ -1,0 +1,7 @@
+C:\Users\Adriana\source\repos\BoolLogicExercise\BoolLogicExercise\bin\Debug\BoolLogicExercise.exe.config
+C:\Users\Adriana\source\repos\BoolLogicExercise\BoolLogicExercise\bin\Debug\BoolLogicExercise.exe
+C:\Users\Adriana\source\repos\BoolLogicExercise\BoolLogicExercise\bin\Debug\BoolLogicExercise.pdb
+C:\Users\Adriana\source\repos\BoolLogicExercise\BoolLogicExercise\obj\Debug\BoolLogicExercise.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\BoolLogicExercise\BoolLogicExercise\obj\Debug\BoolLogicExercise.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\BoolLogicExercise\BoolLogicExercise\obj\Debug\BoolLogicExercise.exe
+C:\Users\Adriana\source\repos\BoolLogicExercise\BoolLogicExercise\obj\Debug\BoolLogicExercise.pdb
