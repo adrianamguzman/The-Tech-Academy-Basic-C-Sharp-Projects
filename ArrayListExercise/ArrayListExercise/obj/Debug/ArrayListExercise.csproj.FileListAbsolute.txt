@@ -1,0 +1,7 @@
+C:\Users\Adriana\source\repos\ArrayListExercise\ArrayListExercise\obj\Debug\ArrayListExercise.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\ArrayListExercise\ArrayListExercise\obj\Debug\ArrayListExercise.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\ArrayListExercise\ArrayListExercise\bin\Debug\ArrayListExercise.exe.config
+C:\Users\Adriana\source\repos\ArrayListExercise\ArrayListExercise\bin\Debug\ArrayListExercise.exe
+C:\Users\Adriana\source\repos\ArrayListExercise\ArrayListExercise\bin\Debug\ArrayListExercise.pdb
+C:\Users\Adriana\source\repos\ArrayListExercise\ArrayListExercise\obj\Debug\ArrayListExercise.exe
+C:\Users\Adriana\source\repos\ArrayListExercise\ArrayListExercise\obj\Debug\ArrayListExercise.pdb
