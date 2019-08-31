@@ -1,0 +1,7 @@
+C:\Users\Adriana\source\repos\MultipleParameters\MultipleParameters\bin\Debug\MultipleParameters.exe.config
+C:\Users\Adriana\source\repos\MultipleParameters\MultipleParameters\bin\Debug\MultipleParameters.exe
+C:\Users\Adriana\source\repos\MultipleParameters\MultipleParameters\bin\Debug\MultipleParameters.pdb
+C:\Users\Adriana\source\repos\MultipleParameters\MultipleParameters\obj\Debug\MultipleParameters.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\MultipleParameters\MultipleParameters\obj\Debug\MultipleParameters.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\MultipleParameters\MultipleParameters\obj\Debug\MultipleParameters.exe
+C:\Users\Adriana\source\repos\MultipleParameters\MultipleParameters\obj\Debug\MultipleParameters.pdb
