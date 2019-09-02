@@ -1,0 +1,7 @@
+C:\Users\Adriana\source\repos\FullName\FullName\obj\Debug\FullName.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\FullName\FullName\obj\Debug\FullName.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\FullName\FullName\bin\Debug\FullName.exe.config
+C:\Users\Adriana\source\repos\FullName\FullName\bin\Debug\FullName.exe
+C:\Users\Adriana\source\repos\FullName\FullName\bin\Debug\FullName.pdb
+C:\Users\Adriana\source\repos\FullName\FullName\obj\Debug\FullName.exe
+C:\Users\Adriana\source\repos\FullName\FullName\obj\Debug\FullName.pdb
