@@ -5,3 +5,10 @@ C:\Users\Adriana\source\repos\AbstractClassExercise\AbstractClassExercise\obj\De
 C:\Users\Adriana\source\repos\AbstractClassExercise\AbstractClassExercise\obj\Debug\AbstractClassExercise.csproj.CoreCompileInputs.cache
 C:\Users\Adriana\source\repos\AbstractClassExercise\AbstractClassExercise\obj\Debug\AbstractClassExercise.exe
 C:\Users\Adriana\source\repos\AbstractClassExercise\AbstractClassExercise\obj\Debug\AbstractClassExercise.pdb
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassExercise\AbstractClassExercise\bin\Debug\AbstractClassExercise.exe.config
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassExercise\AbstractClassExercise\bin\Debug\AbstractClassExercise.exe
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassExercise\AbstractClassExercise\bin\Debug\AbstractClassExercise.pdb
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\AbstractClassExercise.csprojAssemblyReference.cache
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\AbstractClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\AbstractClassExercise.exe
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\AbstractClassExercise.pdb
