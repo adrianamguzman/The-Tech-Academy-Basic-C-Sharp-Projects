@@ -1,0 +1,7 @@
+C:\Users\Adriana\source\repos\enumExercise\enumExercise\obj\Debug\enumExercise.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\enumExercise\enumExercise\obj\Debug\enumExercise.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\enumExercise\enumExercise\bin\Debug\enumExercise.exe.config
+C:\Users\Adriana\source\repos\enumExercise\enumExercise\bin\Debug\enumExercise.exe
+C:\Users\Adriana\source\repos\enumExercise\enumExercise\bin\Debug\enumExercise.pdb
+C:\Users\Adriana\source\repos\enumExercise\enumExercise\obj\Debug\enumExercise.exe
+C:\Users\Adriana\source\repos\enumExercise\enumExercise\obj\Debug\enumExercise.pdb
