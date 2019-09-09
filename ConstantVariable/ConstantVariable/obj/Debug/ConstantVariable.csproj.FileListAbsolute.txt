@@ -1,0 +1,7 @@
+C:\Users\Adriana\source\repos\ConstantVariable\ConstantVariable\bin\Debug\ConstantVariable.exe.config
+C:\Users\Adriana\source\repos\ConstantVariable\ConstantVariable\bin\Debug\ConstantVariable.exe
+C:\Users\Adriana\source\repos\ConstantVariable\ConstantVariable\bin\Debug\ConstantVariable.pdb
+C:\Users\Adriana\source\repos\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.csprojAssemblyReference.cache
+C:\Users\Adriana\source\repos\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\source\repos\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.exe
+C:\Users\Adriana\source\repos\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.pdb
