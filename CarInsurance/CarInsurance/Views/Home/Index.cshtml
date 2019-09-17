@@ -1,0 +1,49 @@
+﻿<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card">
+            <h5 class="m-0"> Get Your Auto Insurance Quote Now!</h5>
+            <div class="card-body">
+                @using (Html.BeginForm("GetQuote", "Home", FormMethod.Post))
+                {
+                <div class="row">
+                    <div class="form-group col">
+                        <input name="firstName" type="text" class="form-control" placeholder="First Name" />
+                    </div>
+                    <div class="form-group col">
+                        <input name="lastName" type="text" class="form-control" placeholder="Last Name" />
+                    </div>
+                    <div class="form-group col">
+                        <input name="emailAddress" type="email" class="form-control" placeholder="Email Address" />
+                    </div>
+                    <div class="form-group col">
+                        <input name="age" type="int" class="form-control" placeholder="How old are you?" />
+                    </div>
+                    <div class="form-group col">
+                        <input name="dui" type="text" class="form-control" placeholder="Have you had a Dui?" />
+                    </div>
+                    <div class="form-group col">
+                        <input name="carYear" type="number" class="form-control" placeholder="What year is your Car?" />
+                    </div>
+                    <div class="form-group col">
+                        <input name="carMake" type="text" class="form-control" placeholder="What is the Make of your car?" />
+                    </div>
+                    <div class="form-group col">
+                        <input name="carModel" type="text" class="form-control" placeholder="What Model is your car?" />
+                    </div>
+                    <div class="form-group col">
+                        <input name="tickets" type="number" class="form-control" placeholder="How many speeding tickets have you had?" />
+                    </div>
+                    <div class="radio">
+                        <h6>Select which type of coverage you would like?</h6>
+                        <label class="radio-inline"><input type="radio" name ="coverage" value="liability" checked>Liability Coverage</label>
+                        <label class="radio-inline"><input type="radio" name ="coverage" value="full" >Full Coverage</label>
+                    </div>
+                   
+                    <button type="submit" class="btn btn-block btn-primary">Submit</button>
+                </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
