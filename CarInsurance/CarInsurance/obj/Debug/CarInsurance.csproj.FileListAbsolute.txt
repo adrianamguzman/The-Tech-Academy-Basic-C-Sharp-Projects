@@ -74,3 +74,4 @@ C:\Users\Adriana\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.c
 C:\Users\Adriana\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.CopyComplete
 C:\Users\Adriana\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.dll
 C:\Users\Adriana\source\repos\CarInsurance\CarInsurance\obj\Debug\CarInsurance.pdb
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsurance\CarInsurance\obj\Debug\CarInsurance.csproj.CoreCompileInputs.cache
