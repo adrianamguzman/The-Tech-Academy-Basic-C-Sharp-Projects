@@ -5,3 +5,10 @@ C:\Users\Adriana\source\repos\ConstantVariable\ConstantVariable\obj\Debug\Consta
 C:\Users\Adriana\source\repos\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.csproj.CoreCompileInputs.cache
 C:\Users\Adriana\source\repos\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.exe
 C:\Users\Adriana\source\repos\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.pdb
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantVariable\ConstantVariable\bin\Debug\ConstantVariable.exe.config
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantVariable\ConstantVariable\bin\Debug\ConstantVariable.exe
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantVariable\ConstantVariable\bin\Debug\ConstantVariable.pdb
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.csprojAssemblyReference.cache
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.exe
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstantVariable\ConstantVariable\obj\Debug\ConstantVariable.pdb

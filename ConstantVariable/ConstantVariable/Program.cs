@@ -17,15 +17,14 @@ namespace ConstantVariable
             Console.WriteLine("What is your first name?");
             string firstName = Console.ReadLine();
 
-            var fullName = new Concatinate(lastName,firstName);
-            Console.WriteLine("{0} : {1} {2}", type, firstName, lastName);
+            var names= new Concatinate();
+            
+            Console.WriteLine(names.FullName(firstName,lastName));
             Console.ReadLine();
 
-         
 
         }
     }
 }
 
 
-// ** yes i know no real concatinating was done in this code hahah
