@@ -19,7 +19,7 @@ namespace ConstantVariable
 
             var names= new Concatinate();
             
-            Console.WriteLine(names.FullName(firstName,lastName));
+            Console.WriteLine(type + " " + names.FullName(firstName,lastName));
             Console.ReadLine();
 
 
