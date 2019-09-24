@@ -1,8 +1,6 @@
 ﻿using CarInsurance.Models;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 
 namespace CarInsurance.Controllers
@@ -15,91 +13,80 @@ namespace CarInsurance.Controllers
         }
 
         [HttpPost]
-        public ActionResult GetQuote(int age, string dui, int carYear, string carMake, string carModel, int tickets, string coverage)
+        public ActionResult GetQuote(string firstName, string lastName, string emailAddress,int age, string dui, int carYear, string carMake, string carModel, int tickets, string coverage)
         {
-            Customer customer = new Customer();
+            
 
             int runningQuote = 50;
 
 
+            if (age < 18)
+            {
 
-            if (customer.Age < 25 || customer.Age > 100)
+                runningQuote = (runningQuote + 100);
+
+            }
+
+            else if (age < 25 || age > 100)
             {
                 runningQuote = (runningQuote + 25);
-
-
-                if (customer.Age < 18)
-                {
-                    runningQuote = (runningQuote + 100);
-
-
-
-                    if (customer.CarYear < 2000 || customer.CarYear > 2015)
-                    {
-                        runningQuote = runningQuote + 25;
-
-
-                        if (customer.CarMake == "Porche" || customer.CarMake == "porche")
-                        {
-                            runningQuote = runningQuote + 25;
-
-                            if (customer.CarMake == "Porche" || customer.CarMake == "porche" && customer.CarModel == "911 Carrera" || customer.CarModel == "911 carrerra")
-                            {
-
-                                runningQuote = runningQuote + 25;
-
-                                if (customer.Tickets > 0)
-                                {
-                                    runningQuote = runningQuote + (customer.Tickets * 10);
-
-
-                                    if (customer.Dui == "yes" || customer.Dui == "ya" || customer.Dui == "yeah")
-                                    {
-                                        runningQuote = runningQuote + (runningQuote * (1 / 4));
-
-                                        if (customer.Coverage == "full")
-                                        {
-                                            runningQuote = runningQuote + (runningQuote * (1 / 2));
-
-                                        }
-
-                                    }
-                                }
-
-                            }
-                        }
-                    }
-                }
             }
-            customer.totalQuote = runningQuote;
-
-            return View("Quoted", customer.totalQuote);
 
 
-        }
-
-        public ActionResult Admin()
-        {
-            using (CarInsuranceEntities db = new CarInsuranceEntities())
+            if (carYear < 2000 || carYear > 2015)
             {
-                var quotes = db.CustomerQuotes;
-                var Customers = new List<Customer>();
-                foreach (var customer in quotes)
-                {
-                    CustomerQuote customersQuote = new CustomerQuote();
-                    customersQuote.FirstName = customer.FirstName;
-                    customersQuote.LastName = customer.LastName;
-                    customersQuote.EmailAddress = customer.EmailAddress;
-                    customersQuote.QuoteEstimate = Convert.ToInt32(customer.QuoteEstimate);
-                    quotes.Add(customersQuote);
-
-                }
-
-
-
-                return View(quotes);
+                runningQuote = runningQuote + 25;
             }
 
+
+            if (carMake == "Porche" || carMake == "porche")
+            {
+                runningQuote = runningQuote + 25;
+            }
+
+            if (carMake == "Porche" || carMake == "porche" && carModel == "911 Carrera" || carModel == "911 carrera")
+            {
+
+                runningQuote = runningQuote + 25;
+            }
+            if (tickets > 0)
+            {
+                runningQuote = runningQuote + (tickets * 10);
+            }
+
+
+            if (dui == "yes" || dui == "ya" || dui == "yeah")
+
+            {
+                runningQuote = runningQuote + (runningQuote * (1 / 4));
+            }
+
+            if (coverage == "full")
+            {
+                runningQuote = runningQuote + (runningQuote * (1 / 2));
+
+            }
+            ViewBag.text = coverage;
+
+            using (CarInsuranceEntities1 db = new CarInsuranceEntities1())
+            {
+                var customer = new CustomerQuote();
+                customer.FirstName = firstName;
+                customer.LastName = lastName;
+                customer.EmailAddress = emailAddress;
+                customer.QuoteEstimate = runningQuote;
+
+                db.CustomerQuotes.Add(customer);
+                db.SaveChanges();
+            }
+
+                return View("Quoted", runningQuote);
+
         }
+
+
+       
+
+        
     }
 }

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-  <EntityContainerMapping StorageEntityContainer="CarInsuranceModelStoreContainer" CdmEntityContainer="CarInsuranceEntities">
+  <EntityContainerMapping StorageEntityContainer="CarInsuranceModelStoreContainer" CdmEntityContainer="CarInsuranceEntities1">
     <EntitySetMapping Name="CustomerQuotes">
       <EntityTypeMapping TypeName="CarInsuranceModel.CustomerQuote">
         <MappingFragment StoreEntitySet="CustomerQuote">

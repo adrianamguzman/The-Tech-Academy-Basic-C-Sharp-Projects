@@ -8,9 +8,9 @@
     <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
     <Property Name="EmailAddress" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
-    <Property Name="QuoteEstimate" Type="Decimal" />
+    <Property Name="QuoteEstimate" Type="Int32" />
   </EntityType>
-  <EntityContainer Name="CarInsuranceEntities" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="CarInsuranceEntities1" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="CustomerQuotes" EntityType="Self.CustomerQuote" />
   </EntityContainer>
 </Schema>

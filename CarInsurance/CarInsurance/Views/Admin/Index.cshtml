@@ -1,1 +1,30 @@
-﻿
+﻿@using CarInsurance.Models
+@model List<CustomerQuote>
+
+<div class="row no-gutters m-3">
+    <div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Sign-ups</h5>
+        </div>
+        <div class="card-body">
+            @foreach (var customer in Model)
+            {
+                <div class="row">
+
+                    <div class="col">
+                        @customer.FirstName
+                    </div>
+                    <div class="col">
+                        @customer.LastName
+                    </div>
+                    <div class="col">
+                        @customer.EmailAddress
+                    </div>
+                    <div class="col">
+                        @customer.QuoteEstimate
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
