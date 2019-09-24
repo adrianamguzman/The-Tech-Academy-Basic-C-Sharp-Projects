@@ -5,3 +5,10 @@ C:\Users\Adriana\source\repos\MultipleParameters\MultipleParameters\obj\Debug\Mu
 C:\Users\Adriana\source\repos\MultipleParameters\MultipleParameters\obj\Debug\MultipleParameters.csproj.CoreCompileInputs.cache
 C:\Users\Adriana\source\repos\MultipleParameters\MultipleParameters\obj\Debug\MultipleParameters.exe
 C:\Users\Adriana\source\repos\MultipleParameters\MultipleParameters\obj\Debug\MultipleParameters.pdb
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultipleParameters\MultipleParameters\bin\Debug\MultipleParameters.exe.config
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultipleParameters\MultipleParameters\bin\Debug\MultipleParameters.exe
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultipleParameters\MultipleParameters\bin\Debug\MultipleParameters.pdb
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultipleParameters\MultipleParameters\obj\Debug\MultipleParameters.csprojAssemblyReference.cache
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultipleParameters\MultipleParameters\obj\Debug\MultipleParameters.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultipleParameters\MultipleParameters\obj\Debug\MultipleParameters.exe
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultipleParameters\MultipleParameters\obj\Debug\MultipleParameters.pdb

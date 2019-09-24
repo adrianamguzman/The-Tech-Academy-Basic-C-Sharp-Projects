@@ -17,18 +17,20 @@ namespace MultipleParameters
             int pickedNumber = Convert.ToInt32(Console.ReadLine());
 
             Console.WriteLine("Pick another number(optional):");
-            try
-            {
 
+
+            try { 
                 int pickedNumber2 = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Your total numer is: " + math.Addme(pickedNumber, pickedNumber2));
             }
-            catch
+            catch 
             {
-
-
+                
                 Console.WriteLine("Your total numer is: " + math.Addme(pickedNumber));
             }
-            Console.ReadLine();
+           
+            
+           Console.ReadLine();
         }
             
             

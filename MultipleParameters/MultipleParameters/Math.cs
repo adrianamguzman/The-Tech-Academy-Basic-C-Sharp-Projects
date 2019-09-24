@@ -8,10 +8,10 @@ namespace MultipleParameters
 {
     class Math
     {
-        public int Addme(int number, int number2=0)
+        public int Addme(int number, int number2 =0 )
         {
             int totalValue;
-            totalValue = number + number2 + 10;
+            totalValue = number + Convert.ToInt32(number2) + 10;
             return totalValue;
 
         }
