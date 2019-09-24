@@ -9,17 +9,25 @@ namespace MethodOverloading
 {
     class Program
     {
-        static void Main(string[] args)
+      
+    static void Main(string[] args)
         {
 
-            MethodOverloading.Math math = new Math();
-            Console.WriteLine("Pick two numbers to Add:");
+            Math math = new Math();
+            Console.WriteLine("Pick two numbers");
             int pickedNumber = Convert.ToInt32(Console.ReadLine());
             int pickedNumber2 = Convert.ToInt32(Console.ReadLine());
 
-            int total = math.Addme(pickedNumber, pickedNumber2);
-            Console.WriteLine("Yout total value is : " + total);
+            
+            Console.WriteLine("Your total value is : " + math.Function(pickedNumber,pickedNumber2));
+            Console.ReadLine();
+
+            Console.WriteLine("What is your name?");
+            string name = Console.ReadLine();
+
+            Console.WriteLine("Thank you " + math.Function(name));
             Console.ReadLine();
         }
+
     } 
 }
