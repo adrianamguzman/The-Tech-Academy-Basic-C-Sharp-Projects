@@ -10,33 +10,41 @@ namespace IntegerList
     {
         static void Main(string[] args)
         {
-            List<int> numbers = new List<int> {1,2,3,4,5};
-            Console.WriteLine("Choose a number:");
+            List<int> numbers = new List<int> {100,50,30,20,10};
 
+        Math:
             try
             {
+                Console.WriteLine("Choose a number:");
 
                 decimal numberPicked = Convert.ToDecimal(Console.ReadLine());
 
                 foreach (int number in numbers)
                 {
 
-                    decimal total = numberPicked / number;
+                    decimal total = number / numberPicked;
                     Console.WriteLine(total);
-                 
+
                 }
-      
+
             }
 
+            catch (DivideByZeroException ex)
+            {
+                Console.WriteLine("Tried to Divide by Zero, Please pick again");
+                
+
+            }
             catch (FormatException ex)
             {
-                Console.WriteLine("Please type a whole number");
-                Console.ReadLine();
-                return;
+                Console.WriteLine("Something was entered inorrectly, please enter a whole number");
+                   
             }
-            
+            Console.WriteLine("A Try Catch Block has been Successfully Executed, Continue with the program until Finished..");
+            goto Math;
 
-            Console.ReadLine();
+
+
         }
             
     }
