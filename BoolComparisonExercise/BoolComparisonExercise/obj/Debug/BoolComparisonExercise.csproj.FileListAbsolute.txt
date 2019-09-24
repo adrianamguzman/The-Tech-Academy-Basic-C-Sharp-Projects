@@ -5,3 +5,10 @@ C:\Users\Adriana\source\repos\BoolComparisonExercise\BoolComparisonExercise\obj\
 C:\Users\Adriana\source\repos\BoolComparisonExercise\BoolComparisonExercise\obj\Debug\BoolComparisonExercise.csproj.CoreCompileInputs.cache
 C:\Users\Adriana\source\repos\BoolComparisonExercise\BoolComparisonExercise\obj\Debug\BoolComparisonExercise.exe
 C:\Users\Adriana\source\repos\BoolComparisonExercise\BoolComparisonExercise\obj\Debug\BoolComparisonExercise.pdb
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolComparisonExercise\BoolComparisonExercise\bin\Debug\BoolComparisonExercise.exe.config
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolComparisonExercise\BoolComparisonExercise\bin\Debug\BoolComparisonExercise.exe
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolComparisonExercise\BoolComparisonExercise\bin\Debug\BoolComparisonExercise.pdb
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolComparisonExercise\BoolComparisonExercise\obj\Debug\BoolComparisonExercise.csprojAssemblyReference.cache
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolComparisonExercise\BoolComparisonExercise\obj\Debug\BoolComparisonExercise.csproj.CoreCompileInputs.cache
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolComparisonExercise\BoolComparisonExercise\obj\Debug\BoolComparisonExercise.exe
+C:\Users\Adriana\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BoolComparisonExercise\BoolComparisonExercise\obj\Debug\BoolComparisonExercise.pdb

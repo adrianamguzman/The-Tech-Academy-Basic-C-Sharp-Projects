@@ -10,40 +10,40 @@ namespace BoolComparisonExercise
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("How hot is it outside?");
-            int temperature = Convert.ToInt32(Console.ReadLine());
-            bool adventureTime = temperature == 82;
+            Console.WriteLine("Pick a Number between 1 and 10");
+            int number = Convert.ToInt32(Console.ReadLine());
 
             do
             {
-                switch (temperature)
-                {
-                    case 50:
-                        Console.WriteLine("Its far too cold, but not enough for snow!");
-                        Console.WriteLine("How hot is it outside?");
-                        temperature = Convert.ToInt32(Console.ReadLine());
-                        break;
-                    case 60:
-                        Console.WriteLine("It's perect fair weather hiking day!");
-                        Console.WriteLine("How hot is it outside?");
-                        temperature = Convert.ToInt32(Console.ReadLine());
-                        break;
-                    case 82:
-                        Console.WriteLine("It's the perfect weather! go adventure!");
-                        adventureTime = true;
-                        break;
+                Console.WriteLine("Value of Your number: {0}", number);
+                number = number + 1;
+
+            } while (number < 10 );
+                Console.ReadLine();
 
 
-                    default:
-                        Console.WriteLine("Not Quite the time!");
-                        Console.WriteLine("How hot is it outside?");
-                        temperature = Convert.ToInt32(Console.ReadLine());
-                        break;
+            Console.WriteLine(" Are you hungry? true or fasle?");
+            bool hunger = Convert.ToBoolean(Console.ReadLine());
 
-                }
-
+            while (!hunger)
+            {
+                Console.WriteLine("Okay, Ill ask again later");
+                break;
+                   
             }
-            while (!adventureTime);
+
+
+
+
+
+
+
+
+
+
+
+
+
 
             Console.ReadLine();
         }
