@@ -8,23 +8,41 @@ namespace ConstantVariable
 {
     class Program
     {
+        public class Person
+        {
+            public string Name { get; set; }
+            public int Age { get; set; }
+            public Person(string name)
+            {
+                Name = name; 
+
+            }
+            public Person(string name, int age) : this(name)
+            {
+                
+                Age = age;
+            }
+        }
+
         static void Main(string[] args)
         {
             const string type = "Student";
-            Console.WriteLine("What is your last name?");
-            string lastName = Console.ReadLine();
+            Console.WriteLine("What is your Name?");
+            string name = Console.ReadLine();
 
-            Console.WriteLine("What is your first name?");
-            string firstName = Console.ReadLine();
 
-            var names= new Concatinate();
-            
-            Console.WriteLine(type + " " + names.FullName(firstName,lastName));
+            Console.WriteLine("What is your age?");
+            int age = Convert.ToInt32(Console.ReadLine());
+
+            Person person = new Person(name,age);
+            Console.WriteLine(type+ ":" +person.Name + " is " +person.Age);
             Console.ReadLine();
-
 
         }
     }
 }
+
+
+
 
 
