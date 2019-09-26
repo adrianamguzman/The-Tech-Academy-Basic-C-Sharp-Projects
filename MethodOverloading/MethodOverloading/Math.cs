@@ -8,18 +8,18 @@ namespace MethodOverloading
 {
     class Math
     {
-        public int Function(int number, int number2)
+        public int Function(int pickedNumber, int pickedNumber2)
         {
             int totalValue;
-            totalValue = number + number2;
+            totalValue = pickedNumber + pickedNumber2;
             return totalValue;
 
         }
 
-        public string Function(string variable)
+        public string Function(string name)
         {
 
-            string var = variable;
+            string var = name;
             return var;
         }
 
