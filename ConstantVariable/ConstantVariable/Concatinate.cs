@@ -9,16 +9,25 @@ namespace ConstantVariable
     public class Concatinate
 
     {
-        public string Name{ get; set; }
-       
+        public string FirstName{ get; set; }
+        public string LastName { get; set; }
+        public string MiddleName { get; set;l }
 
-
+        
+        
         public string FullName(string name, string name2)
         {
-            this.Name = name +" "+ name2;
-            return this.Name;
+            this.FirstName = name;
+            this.LastName = name2;
+
+            string FullName = this.FirstName + this.LastName;
+            return FullName;
+
+        }
+
+        public string FullName(string name)
+        {
            
-            
         }
 
 
